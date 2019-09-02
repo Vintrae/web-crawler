@@ -1,4 +1,4 @@
-# web-crawler
+# Python web crawler
 A simple web crawler written in Python.
 
 Despite the various amount of links that can be fetched from an HTML file, this crawler only pays attention to those in "\<a\>" tags. The
